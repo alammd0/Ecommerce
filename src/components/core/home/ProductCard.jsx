@@ -1,6 +1,6 @@
 
 export function ProductCard({ product }) {
-    console.log(product)
+    // console.log(product)
     return (
         <div className="h-[500px] w-[300px] bg-white rounded-lg shadow-md hover:scale-95 transition-all duration-100 cursor-pointer">
             <div>
